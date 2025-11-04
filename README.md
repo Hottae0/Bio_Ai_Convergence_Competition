@@ -1,3 +1,6 @@
+<img width="640" height="370" alt="image" src="https://github.com/user-attachments/assets/a623a671-438f-4f02-bd5c-36ac740114df" />
+
+
 # 분자 속성 예측 프로젝트
 
 이 프로젝트는 SMILES 문자열로 표현된 분자 구조로부터 특정 속성 값을 예측하는 머신러닝 모델을 학습하고(`train.py`), 학습된 모델을 사용해 새로운 분자를 예측(`predict.py`)하는 파이썬 스크립트를 포함하고 있습니다.
@@ -27,3 +30,4 @@
 
 ```bash
 pip install pandas numpy scikit-learn xgboost rdkit-pypi
+
